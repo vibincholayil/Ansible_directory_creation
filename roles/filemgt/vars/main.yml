@@ -1,0 +1,10 @@
+#SPDX-License-Identifier: MIT-0
+---
+# vars file for filemgt
+files:
+ - /opt/demo1.txt
+ - /opt/demo2.txt
+
+directories:
+ - /opt/project1
+ - /opt/project2#
