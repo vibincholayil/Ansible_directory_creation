@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project showcases how to use **Ansible** to automate the creation of directories and files on multiple Linux systems. By utilizing Ansible playbooks, roles, and variable files, system administrators can ensure consistency and efficiency in infrastructure management.
+This mini task showcases how to use **Ansible** to automate the creation of directories and files on multiple Linux systems. By utilizing Ansible playbooks, roles, and variable files, system administrators can ensure consistency and efficiency in infrastructure management.
 
 This automation helps eliminate manual errors, speeds up deployments, and promotes Infrastructure as Code (IaC) practices.
 
