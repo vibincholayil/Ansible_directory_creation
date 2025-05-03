@@ -24,7 +24,9 @@ This automation helps eliminate manual errors, speeds up deployments, and promot
 - **Linux** environment for deployment
 
 ---
+<img width="757" alt="Screenshot 2025-05-03 at 00 05 56" src="https://github.com/user-attachments/assets/cae793ab-f498-4502-ae62-c1afaed5040a" />
 
+---
 ## Conclusion
 
 I successfully automated the creation of specific files and directories on remote nodes using Ansible. By leveraging a custom Ansible role (filemgt), I ensured consistent, repeatable provisioning of resources across multiple hosts. This approach reduces manual intervention, minimizes configuration errors, and simplifies infrastructure management.
